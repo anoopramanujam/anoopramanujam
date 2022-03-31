@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anoop Ramanujam
-- 🌱 I’m currently learning Flutter
+- 🌱 I develop web applications in React / Javascript / .Net
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
